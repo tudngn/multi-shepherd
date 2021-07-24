@@ -1,5 +1,5 @@
 # multi-shepherd
-This is a python implementation of the shepherding behaviours with multiple-sheepdogs from the paper "The Limits of Reactive Shepherding Approaches for Swarm Guidance"
+This is a python implementation of the shepherding model with multiple-sheepdogs from the paper "The Limits of Reactive Shepherding Approaches for Swarm Guidance"
 
 Source for citation:
 
