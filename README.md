@@ -1,4 +1,4 @@
-# multi-shepherd
+# multi-shepherds
 This is a python implementation of the shepherding model with multiple-sheepdogs from the paper "The Limits of Reactive Shepherding Approaches for Swarm Guidance"
 
 Source for citation:
